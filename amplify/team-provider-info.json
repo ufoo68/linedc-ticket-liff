@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linedcticketliff-dev-202813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::314405667869:role/amplify-linedcticketliff-dev-202813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::314405667869:role/amplify-linedcticketliff-dev-202813-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-linedcticketliff-dev-202813-deployment",
+      "UnauthRoleName": "amplify-linedcticketliff-dev-202813-unauthRole",
+      "StackName": "amplify-linedcticketliff-dev-202813",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:314405667869:stack/amplify-linedcticketliff-dev-202813/bbbf44a0-8676-11ec-be48-0eb7fc994d17",
+      "AmplifyAppId": "d3amlrau97aqso"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3amlrau97aqso",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

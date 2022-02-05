@@ -1,0 +1,6 @@
+type Ticket @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  liff_user_id: String
+  user_name: String
+  user_qr: String
+}
